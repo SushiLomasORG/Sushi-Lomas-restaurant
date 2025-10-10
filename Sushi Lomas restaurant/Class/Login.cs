@@ -14,6 +14,7 @@ namespace Sushi_Lomas_restaurant.Class
         {
             try
             {
+                //Consultas que se usan para el inicio de sesion, se consultan el rol y el nombre, antes de mostrar los demas datos
                 string consulta0 = "SELECT rol FROM Usuario WHERE nombre = @usuario and contraseña = @contraseña";
                 string consulta1 = "SELECT nombre FROM Usuario WHERE nombre = @usuario and contraseña = @contraseña";
                 string consulta2 = "SELECT * FROM Usuario WHERE nombre = @usuario and contraseña = @contraseña";
