@@ -127,9 +127,7 @@
     <Compile Include="Windows\Pedidos\Ingresar telefono.Designer.cs">
       <DependentUpon>Ingresar telefono.cs</DependentUpon>
     </Compile>
-    <Compile Include="Windows\Pedidos\Lista de pedidos.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Windows\Pedidos\Lista de pedidos.cs" />
     <Compile Include="Windows\Pedidos\Lista de pedidos.Designer.cs">
       <DependentUpon>Lista de pedidos.cs</DependentUpon>
     </Compile>
