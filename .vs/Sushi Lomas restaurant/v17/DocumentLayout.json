@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|solutionrelative:sushi lomas restaurant\\windows\\administracion\\administrar clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|c:\\users\\bryan\\desktop\\sushi-lomas-restaurant-main\\sushi-lomas-restaurant-main\\sushi lomas restaurant\\windows\\administracion\\administrar usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\sushi lomas restaurant\\windows\\administracion\\administrar usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|solutionrelative:sushi lomas restaurant\\windows\\administracion\\administrar usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|c:\\users\\bryan\\desktop\\sushi-lomas-restaurant-main\\sushi-lomas-restaurant-main\\sushi lomas restaurant\\class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\sushi lomas restaurant\\class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|solutionrelative:sushi lomas restaurant\\class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -98,8 +98,7 @@
               "RelativeToolTip": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T22:14:32.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T22:14:32.501Z"
             },
             {
               "$type": "Document",
@@ -109,7 +108,7 @@
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar clientes.cs",
               "ToolTip": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar clientes.cs",
               "RelativeToolTip": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar clientes.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAA9wEYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T22:12:49.125Z",
               "EditorCaption": ""
@@ -124,8 +123,7 @@
               "RelativeToolTip": "Sushi Lomas restaurant\\Class\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T22:54:57.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T22:54:57.897Z"
             },
             {
               "$type": "Document",
@@ -196,8 +194,7 @@
               "ToolTip": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs [Dise\u00F1o]",
               "RelativeToolTip": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T23:52:47.962Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-03T23:52:47.962Z"
             },
             {
               "$type": "Document",
