@@ -53,7 +53,7 @@ namespace Sushi_Lomas_restaurant.Windows.Administracion
             {
                 if (tb.Text.Length >= 10 && !char.IsControl(e.KeyChar))
                 {
-                    e.Handled = true; 
+                    e.Handled = true;
                 }
 
                 if (!char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar))

@@ -85,7 +85,7 @@ namespace Sushi_Lomas_restaurant.Windows.Administracion
         {
             if (cmb_Rol.SelectedItem == null)
             {
-                _rol = 0; 
+                _rol = 0;
                 return;
             }
 
@@ -117,7 +117,7 @@ namespace Sushi_Lomas_restaurant.Windows.Administracion
             User.lista(dataGridView1);
             limpiar();
         }
-        
+
         void limpiar()
         {
             txt_usuario.Clear();

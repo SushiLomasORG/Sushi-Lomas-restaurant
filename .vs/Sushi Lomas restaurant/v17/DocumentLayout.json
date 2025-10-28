@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|c:\\users\\bryan\\desktop\\sushi-lomas-restaurant-main\\sushi-lomas-restaurant-main\\sushi lomas restaurant\\windows\\administracion\\administrar clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|solutionrelative:sushi lomas restaurant\\windows\\administracion\\administrar clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|c:\\users\\bryan\\desktop\\sushi-lomas-restaurant-main\\sushi-lomas-restaurant-main\\sushi lomas restaurant\\windows\\administracion\\administrar usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|solutionrelative:sushi lomas restaurant\\windows\\administracion\\administrar usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|c:\\users\\bryan\\desktop\\sushi-lomas-restaurant-main\\sushi-lomas-restaurant-main\\sushi lomas restaurant\\class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CACCFC-6E92-4DFD-B386-8E416F18F779}|Sushi Lomas restaurant\\Sushi Lomas restaurant.csproj|solutionrelative:sushi lomas restaurant\\class\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,27 +54,82 @@
       "DocumentGroups": [
         {
           "DockedHeight": 271,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrar usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs",
+              "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs",
+              "ToolTip": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs",
+              "RelativeToolTip": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:14:32.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Administrar clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar clientes.cs",
+              "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar clientes.cs",
+              "ToolTip": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar clientes.cs",
+              "RelativeToolTip": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar clientes.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:12:49.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Class\\Client.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Class\\Client.cs",
               "ToolTip": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Class\\Client.cs",
               "RelativeToolTip": "Sushi Lomas restaurant\\Class\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T22:54:57.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Orders.cs",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Class\\Orders.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Class\\Orders.cs",
@@ -78,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Class\\Product.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Class\\Product.cs",
@@ -90,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CorteCaja.cs",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Math\\CorteCaja.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Math\\CorteCaja.cs",
@@ -102,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Class\\Login.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Class\\Login.cs",
@@ -114,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Lista de pedidos.cs",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Pedidos\\Lista de pedidos.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Windows\\Pedidos\\Lista de pedidos.cs",
@@ -126,18 +189,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Administrar usuarios.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "Administrar usuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs",
-              "ToolTip": "C:\\Users\\Esstefano\\Desktop\\Sushi Lomas restaurant\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Esstefano\\Desktop\\Sushi Lomas restaurant\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs [Design]",
+              "ToolTip": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar usuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T23:52:47.962Z"
+              "WhenOpened": "2025-10-03T23:52:47.962Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Conect.cs",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Class\\Conect.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Class\\Conect.cs",
@@ -149,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Administrar precios.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Bryan\\Desktop\\Sushi-Lomas-restaurant-main\\Sushi-Lomas-restaurant-main\\Sushi Lomas restaurant\\Windows\\Administracion\\Administrar precios.cs",
               "RelativeDocumentMoniker": "Sushi Lomas restaurant\\Windows\\Administracion\\Administrar precios.cs",
