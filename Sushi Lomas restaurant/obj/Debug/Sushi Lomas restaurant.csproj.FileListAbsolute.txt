@@ -1,0 +1,61 @@
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.exe.config
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.exe
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.pdb
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.exe
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.pdb
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Identiicarse.resources
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Principal.resources
+C:\Users\gabri\OneDrive\Escritorio\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Pedidos.Registrar_pedidos.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.exe.config
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.exe
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.pdb
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.exe.config
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Identiicarse.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Properties.Resources.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Pedidos.Ingresar_telefono.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Pedidos.Lista_de_pedidos.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Pedidos.Registrar_pedidos.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Principal.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.exe
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.pdb
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Administracion.Administrar_clientes.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Administracion.Administrar_precios.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Administracion.Administrar_inventario.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Administracion.Administrar_usuarios.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Generales.Registrar_articulos.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Generales.Registrar_clientes.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Generales.Corte_de_caja.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Generales.Registrar_gastos_y_compras.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Sistema.Cambiar_contraseña.resources
+C:\Users\gabri\Desktop\Trabajo\Programas\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Sistema.Autorizacion.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.exe.config
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.exe
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\bin\Debug\Sushi Lomas restaurant.pdb
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.AssemblyReference.cache
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Administracion.Administrar_clientes.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Administracion.Administrar_inventario.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Administracion.Administrar_precios.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Administracion.Administrar_usuarios.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Generales.Corte_de_caja.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Generales.Registrar_articulos.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Generales.Registrar_clientes.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Generales.Registrar_gastos_y_compras.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Identiicarse.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Properties.Resources.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Pedidos.Ingresar_telefono.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Pedidos.Lista_de_pedidos.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Pedidos.Registrar_pedidos.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Principal.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Sistema.Autorizacion.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi_Lomas_restaurant.Windows.Sistema.Cambiar_contraseña.resources
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.GenerateResource.cache
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.exe
+C:\Users\Esstefano\Desktop\Sushi Lomas restaurant\Sushi Lomas restaurant\obj\Debug\Sushi Lomas restaurant.pdb
